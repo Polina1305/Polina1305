@@ -74,12 +74,19 @@
 
 | Сourses                                                                                              |    Date                      |   сертификат |
 |------------------------------------------------------------------------------------------------------|:----------------------------:|:------------:|
-| ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/syllabus)                  |    15/11/2021  |[Stepik](https://stepik.org/cert/1235277)|
-| [Нестандартный курс по английскому языку "Magic English"](https://stepik.org/course/101725/syllabus) |    24/03/2022 |[Stepik](https://stepik.org/cert/1445912)|
-| [Data-аналитик: старт карьеры ТГУ](https://tsu-dpo.ru/program/data)                                  |    25/04/2022 - 25/08/2022   |[![image](https://user-images.githubusercontent.com/106150320/235954986-6a9f1f75-7e89-4a33-a42b-57bc9e8431e1.png)]( -  )|
-| [Первые программы на языке Python](https://stepik.org/users/348200179)                               |    30/06/2022  |[Stepik](https://stepik.org/cert/1564465)|
-| [Big Data и Data Science: перейди на новый уровень](https://stepik.org/course/101689/syllabus)       |    31/10/2022 |[Stepik](https://stepik.org/cert/1744433)|
-| [Минимум по линейной алгебре](https://stepik.org/course/57167/syllabus)                              |    13/01/2023    |[Stepik](https://stepik.org/cert/1907607)|
-| [Python для тех, у кого лапки](https://stepik.org/course/85388/syllabus)                             |    14/02/2023   |[Stepik](https://stepik.org/cert/1948420)|
-| [«Специалист по Data Science»](https://practicum.yandex.ru/data-scientist/)                          |    01/09/2022 - 06/05/2023   |[Яндекс Практикум]( - ) |
+| ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/syllabus)                  |    15/11/2021  |[![image](https://user-images.githubusercontent.com/106150320/235955674-a0bb33e6-37ba-4c44-bb64-ef5d68dbf79f.png)
+](https://stepik.org/cert/1235277)|
+| [Нестандартный курс по английскому языку "Magic English"](https://stepik.org/course/101725/syllabus) |    24/03/2022 |[![image](https://user-images.githubusercontent.com/106150320/235955691-c1b6755c-d72d-45e7-b5c9-d091989e4998.png)
+](https://stepik.org/cert/1445912)|
+| [Data-аналитик: старт карьеры ТГУ](https://tsu-dpo.ru/program/data)                                  |    25/04/2022 - 25/08/2022   |[![image](https://user-images.githubusercontent.com/106150320/235955445-d29583c0-f180-4893-a286-f3ddb66bebfc.png)
+]( -  )|
+| [Первые программы на языке Python](https://stepik.org/users/348200179)                               |    30/06/2022  |[![image](https://user-images.githubusercontent.com/106150320/235955588-ee324536-8d68-4c04-ae80-4dd44b0e9c9e.png)
+](https://stepik.org/cert/1564465)|
+| [Big Data и Data Science: перейди на новый уровень](https://stepik.org/course/101689/syllabus)       |    31/10/2022 |[![image](https://user-images.githubusercontent.com/106150320/235955611-5f9024d4-93a5-4f44-81ed-28c5cccec2db.png)
+](https://stepik.org/cert/1744433)|
+| [Минимум по линейной алгебре](https://stepik.org/course/57167/syllabus)                              |    13/01/2023    |[![image](https://user-images.githubusercontent.com/106150320/235955621-0d214f54-5817-435d-836a-c5310e9913a3.png)
+](https://stepik.org/cert/1907607)|
+| [Python для тех, у кого лапки](https://stepik.org/course/85388/syllabus)                             |    14/02/2023   |[![image](https://user-images.githubusercontent.com/106150320/235955644-25955b03-7336-49ed-a35d-e79fcae948a5.png)
+](https://stepik.org/cert/1948420)|
+| [«Специалист по Data Science»](https://practicum.yandex.ru/data-scientist/)                          |    01/09/2022 - 06/05/2023   |[![image](https://user-images.githubusercontent.com/106150320/235955798-623921b1-3ab1-45f3-9f2d-611ade564a94.png)]( - ) |
 
