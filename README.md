@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Polina</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am a beginner computer scientist </h3>
-<div id="header">
+<div id="header" align="center">
   
 
 
@@ -21,7 +21,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Polina1305&style=flat-square&color=blue" alt=""/>
   
-  
+ </div id="header" align="center"> 
 ---
 ### :woman_technologist: About Me :
 
