@@ -42,7 +42,7 @@
 
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=ЦВЕТ ЛОГОТИПА"/>&nbsp;
-  <img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=Scikit-Learn&logoColor=yelow"/>&nbsp;
+  <img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=Scikit-Learn&logoColor=yellow"/>&nbsp;
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=ЦВЕТ ЛОГОТИПА"/>&nbsp;
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=ЦВЕТ ЛОГОТИПА"/>&nbsp;
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=ЦВЕТ ЛОГОТИПА"/>&nbsp;
