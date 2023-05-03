@@ -27,7 +27,7 @@
 ### :woman_technologist: About Me :
 
 
-I am an aspiring data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia. 
+- I am an aspiring data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia. 
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
