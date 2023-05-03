@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/6d/e1/0f/6de10fff994dd378635dafbbaaee9b07.gif" width="300"/>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
 </div>
 
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Polina</a> 
