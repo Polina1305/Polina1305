@@ -34,7 +34,7 @@
 
 ---
 
-### :Инструменты и технологии :
+### :Инструменты и технологии:
 
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=F7931E"/>&nbsp;
