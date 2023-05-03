@@ -25,12 +25,11 @@
   
 
 ### :woman_technologist: About Me :
-  
-  
-  ---
+
+I am an aspiring data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+<!---
 
 
-<!--
 **Polina1305/Polina1305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
