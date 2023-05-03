@@ -31,7 +31,7 @@
 
 - ⚡: I am an accountant by basic education, and at the moment I have completed courses in data analytics and data science.
 
-- 📖: In my free time I solve problems on Stepic, Kaggle, ODS and read technical articles Habr, Proglib, N+1, TProger Stack Overflow forums, Cyberforum, popular YouTube channels, Telegram channels by specialty.
+- 📖: In my free time I solve problems on Stepik, Kaggle, ODS and read technical articles Habr, Proglib, N+1, TProger Stack Overflow forums, Cyberforum, popular YouTube channels, Telegram channels by specialty.
 
 - 💻:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/smolchonok)
 
@@ -68,17 +68,18 @@
 
 
 
-### Сompleted courses:
+### Сompleted courses: 
+
 
 
 | Сourses                                                                                              |    Date                      |   сертификат |
 |------------------------------------------------------------------------------------------------------|:----------------------------:|:------------:|
-| ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/syllabus)                  |    15/11/2021  |[вот](https://stepik.org/cert/1235277)|
-| [Нестандартный курс по английскому языку "Magic English"](https://stepik.org/course/101725/syllabus) |    24/03/2022 |[вот](https://stepik.org/cert/1445912)|
-| [Data-аналитик: старт карьеры ТГУ](https://tsu-dpo.ru/program/data)                                  |    25/04/2022 - 25/08/2022   |[вот]( -  )|
-| [Первые программы на языке Python](https://stepik.org/users/348200179)                               |    30/06/2022  |[вот](https://stepik.org/cert/1564465)|
-| [Big Data и Data Science: перейди на новый уровень](https://stepik.org/course/101689/syllabus)       |    31/10/2022 |[вот](https://stepik.org/cert/1744433)|
-| [Минимум по линейной алгебре](https://stepik.org/course/57167/syllabus)                              |    13/01/2023    |[вот](https://stepik.org/cert/1907607)|
-| [Python для тех, у кого лапки](https://stepik.org/course/85388/syllabus)                             |    14/02/2023   |[вот](https://stepik.org/cert/1948420)|
-| [«Специалист по Data Science»](https://practicum.yandex.ru/data-scientist/)                          |    01/09/2022 - 06/05/2023   |[вот]( - ) |
+| ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/syllabus)                  |    15/11/2021  |[Stepik](https://stepik.org/cert/1235277)|
+| [Нестандартный курс по английскому языку "Magic English"](https://stepik.org/course/101725/syllabus) |    24/03/2022 |[Stepik](https://stepik.org/cert/1445912)|
+| [Data-аналитик: старт карьеры ТГУ](https://tsu-dpo.ru/program/data)                                  |    25/04/2022 - 25/08/2022   |[![image](https://user-images.githubusercontent.com/106150320/235954986-6a9f1f75-7e89-4a33-a42b-57bc9e8431e1.png)]( -  )|
+| [Первые программы на языке Python](https://stepik.org/users/348200179)                               |    30/06/2022  |[Stepik](https://stepik.org/cert/1564465)|
+| [Big Data и Data Science: перейди на новый уровень](https://stepik.org/course/101689/syllabus)       |    31/10/2022 |[Stepik](https://stepik.org/cert/1744433)|
+| [Минимум по линейной алгебре](https://stepik.org/course/57167/syllabus)                              |    13/01/2023    |[Stepik](https://stepik.org/cert/1907607)|
+| [Python для тех, у кого лапки](https://stepik.org/course/85388/syllabus)                             |    14/02/2023   |[Stepik](https://stepik.org/cert/1948420)|
+| [«Специалист по Data Science»](https://practicum.yandex.ru/data-scientist/)                          |    01/09/2022 - 06/05/2023   |[Яндекс Практикум]( - ) |
 
