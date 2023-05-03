@@ -48,8 +48,10 @@
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=ЦВЕТ ЛОГОТИПА"/>&nbsp;
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=ЦВЕТ ЛОГОТИПА"/>&nbsp;
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=ЦВЕТ ЛОГОТИПА"/>&nbsp;
+  <img src="https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=ЦВЕТ ЛОГОТИПА"/>&nbsp;
+  <img src="https://img.shields.io/badge/microsoftoffice-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=ЦВЕТ ЛОГОТИПА"/>&nbsp;
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=ЦВЕТ ЛОГОТИПА"/>&nbsp;
-  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=ЦВЕТ ЛОГОТИПА"/>&nbsp;
+  <img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=ЦВЕТ ЛОГОТИПА"/>&nbsp;
 </div>
 
 
