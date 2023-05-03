@@ -20,10 +20,10 @@
   </a>
 </div>
 
-  <img src="https://komarev.com/ghpvc/?username=Polina1305&style=flat-square&color=blue" alt=""/>
+  <img src="https://Polina1305.com/ghpvc/?username=Polina1305&style=flat-square&color=blue" alt=""/>
   
   
-<img src="https://github.com/ghpvc/?username=Polina1305&style=flat-square&color=blue" alt=""/>
+
   
   
 ### Hi there 👋
