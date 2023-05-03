@@ -71,12 +71,13 @@
 ### Сompleted courses:
 
 
-|     Сourses     |       Date        |
+| Сourses     |       Date        |
 |-----------------|:-----------------:|
-|["Поколение Python": курс для начинающих](https://stepik.org/course/58852/syllabus)               |  15/11/2021          |
-|                 |                   |
-|                 |                   |
-|                 |                   |
-|                 |                   |
-|                 |                   |
-
+| ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/syllabus)                  |  15/11/2021          |
+| [Нестандартный курс по английскому языку "Magic English"](https://stepik.org/course/101725/syllabus) |    24/03/2022        |
+| [Python для тех, у кого лапки](https://stepik.org/course/85388/syllabus)                             |       14/02/2023     |
+| [Минимум по линейной алгебре](https://stepik.org/course/57167/syllabus)                              |       13/01/2023            |
+| [Big Data и Data Science: перейди на новый уровень](https://stepik.org/course/101689/syllabus)       |       31/10/2022            |
+| [Первые программы на языке Python](https://stepik.org/users/348200179)                               |       30/06/2022            |
+| [Data-аналитик: старт карьеры ТГУ](https://tsu-dpo.ru/program/data)                                  |     25/04/2022 - 25/08/2022           |
+| [«Специалист по Data Science»](https://practicum.yandex.ru/data-scientist/)                          |      01/09/2022 - 06/05/2023        |
