@@ -20,13 +20,15 @@
   </a>
 </div>
 
-  <img src="https://komarev.com/ghpvc/?username=Polina1305&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Polina1305&style=flat-square&color=blue" alt=""/>
   
   
 
   
-  
-### Hi there 👋
+<h1>
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <!--
 **Polina1305/Polina1305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
