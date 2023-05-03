@@ -10,7 +10,7 @@
 
 <div id="badges">
   <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
 </div>
   
 ### Hi there 👋
