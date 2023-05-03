@@ -30,10 +30,8 @@
 
 - I am an aspiring data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia. 
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- ⚡: I am an accountant by basic education, and at the moment I have completed courses in data analytics and data science.
 
-- :seedling: Exploring Technical Content Writing.
+- 📖: - In my free time I solve problems on Stepic, Kaggle, ODS and read technical articles Habr, Proglib, N+1, TProger Stack Overflow forums, Cyberforum, popular YouTube channels, Telegram channels by specialty.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/smolchonok)
+- 💻:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/smolchonok)
