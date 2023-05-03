@@ -27,7 +27,7 @@
 
 ### :woman_technologist: About Me :
 
-- 🇷🇺:  I am an aspiring data scientist 🇷🇺 from Russia. 
+- <img src="https://cdn.jsdelivr.net/npm/openmoji@12.4.0/color/svg/1F1F7-1F1FA.svg" width="100" height="100"/> :  I am an aspiring data scientist 🇷🇺 from Russia. 
 
 - ⚡: I am an accountant by basic education, and at the moment I have completed courses in data analytics and data science.
 
