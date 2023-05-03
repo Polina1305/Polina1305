@@ -21,7 +21,6 @@
 </div>
 
 <img src="https://github.com/Polina1305/ghpvc/?username=Polina1305&style=flat-square&color=blue" alt=""/>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 ### Hi there 👋
 
 <!--
