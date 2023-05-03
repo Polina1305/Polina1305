@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=ЦВЕТ ЛОГОТИПА"/>&nbsp;
   <img src="https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=Jupyter&logoColor=F37626"/>&nbsp;
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=0d1833"/>&nbsp;
-  <img src="https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=ЦВЕТ ЛОГОТИПА"/>&nbsp;
+  <img src="https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=200d33"/>&nbsp;
   <img src="https://img.shields.io/badge/microsoft office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=ЦВЕТ ЛОГОТИПА"/>&nbsp;
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=ЦВЕТ ЛОГОТИПА"/>&nbsp;
   
