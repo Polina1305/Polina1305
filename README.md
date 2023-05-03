@@ -21,7 +21,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Polina1305&style=flat-square&color=blue" alt=""/>
   
- </div id="header" align="center"> 
+ </div id="header"> 
 ---
 ### :woman_technologist: About Me :
 
