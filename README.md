@@ -59,7 +59,7 @@
 
 ### 🔥: My Stats :  
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Polina1305&theme=dark&background=000000)](https://git.io/streak-stats)
+
   
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Polina1305&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -85,4 +85,5 @@
 
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Polina1305&theme=github_dark" alt=""/>
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Polina1305&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
