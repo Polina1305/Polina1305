@@ -74,7 +74,7 @@
 
 | Сourses                                                                                              |    Date                      |   сертификат |
 |------------------------------------------------------------------------------------------------------|:----------------------------:|:------------:|
-| ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/syllabus)                  |    15/11/2021  |[![image](https://user-images.githubusercontent.com/106150320/235955674-a0bb33e6-37ba-4c44-bb64-ef5d68dbf79f.png)
+| ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/syllabus)                  |    15/11/2021  |[!image](https://user-images.githubusercontent.com/106150320/235955674-a0bb33e6-37ba-4c44-bb64-ef5d68dbf79f.png)
 ](https://stepik.org/cert/1235277)|
 | [Нестандартный курс по английскому языку "Magic English"](https://stepik.org/course/101725/syllabus) |    24/03/2022 |[![image](https://user-images.githubusercontent.com/106150320/235955691-c1b6755c-d72d-45e7-b5c9-d091989e4998.png)
 ](https://stepik.org/cert/1445912)|
