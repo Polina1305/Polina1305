@@ -4,10 +4,10 @@
 <div id="header" align="center">\
   
   <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)" width="100"/>
 </div>
   
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmE4NmQyMzA5ZGY0ODY1Y2VjNDRhYjE4NWFjYzA3Yzk0YmFjM2Y0ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpVYr/giphy.gi)" width="100"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmE4NmQyMzA5ZGY0ODY1Y2VjNDRhYjE4NWFjYzA3Yzk0YmFjM2Y0ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpVYr/giphy.gif)" width="100"/>
 </div>
 ### Hi there 👋
 
