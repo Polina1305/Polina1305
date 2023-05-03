@@ -74,7 +74,7 @@
 
 | Сourses                                                                                              |    Date                      |   сертификат |
 |------------------------------------------------------------------------------------------------------|:----------------------------:|:------------:|
-| ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/syllabus)                  |    15/11/2021  |[<img src="https://user-images.githubusercontent.com/106150320/235955674-a0bb33e6-37ba-4c44-bb64-ef5d68dbf79f.png" width="60" height="20"/>](https://stepik.org/cert/1235277)|
+| ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/syllabus)                  |    15/11/2021  |[<img src="https://user-images.githubusercontent.com/106150320/235955674-a0bb33e6-37ba-4c44-bb64-ef5d68dbf79f.png" width="100" height="20"/>](https://stepik.org/cert/1235277)|
 | [Нестандартный курс по английскому языку "Magic English"](https://stepik.org/course/101725/syllabus) |    24/03/2022 |[![image](https://user-images.githubusercontent.com/106150320/235956708-8842092d-f4f3-4e99-8f2f-b9d353b1f259.png)](https://stepik.org/cert/1445912)|
 | [Data-аналитик: старт карьеры ТГУ](https://tsu-dpo.ru/program/data)                                  |    25/04/2022 - 25/08/2022   |[![image](https://user-images.githubusercontent.com/106150320/235955445-d29583c0-f180-4893-a286-f3ddb66bebfc.png)
 ]( -  )|
