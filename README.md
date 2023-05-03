@@ -35,4 +35,4 @@ I am an aspiring data scientist <img src="https://media.giphy.com/media/WUlplcMp
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [!["https://t.me/smolchonok"](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white)]("https://t.me/smolchonok")
