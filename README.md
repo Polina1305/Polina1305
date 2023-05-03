@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
 </div>
 
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Polina</a> 
+<h1 align="center">Привет, меня зовут <a href="https://daniilshat.ru/" target="_blank">Полина</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> 
-<h3 align="center">I am a beginner computer scientist </h3>
+<h3 align="center">Я начинающий Data-Science</h3>
 <div id="header" align="center">
   
 
@@ -72,7 +72,7 @@
 
 
 
-| | Сourses                                                                                              |    Date                      |   сертификат |
+| | Курсы                                                                                              |    Date                      |   сертификат |
 |--|------------------------------------------------------------------------------------------------------|:----------------------------:|:------------:|
 |1.| ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/syllabus)                  |    15/11/2021  |[<img src="https://user-images.githubusercontent.com/106150320/235956708-8842092d-f4f3-4e99-8f2f-b9d353b1f259.png" width="100" height="30"/>](https://stepik.org/cert/1235277)|
 |2.| [Нестандартный курс по английскому языку "Magic English"](https://stepik.org/course/101725/syllabus) |    24/03/2022 |[<img src="https://user-images.githubusercontent.com/106150320/235956708-8842092d-f4f3-4e99-8f2f-b9d353b1f259.png" width="100" height="30"/>](https://stepik.org/cert/1445912)|
