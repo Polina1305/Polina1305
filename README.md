@@ -8,10 +8,18 @@
 <div id="header" align="center">\
   
 
-<div id="badges">
-  <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
+
+  
+  
+  <div id="badges">
+  <a href="https://vk.com/id134089170">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
+  </a>
+  <a href="https://t.me/smolchonok">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
 </div>
+  
   
 ### Hi there 👋
 
