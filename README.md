@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmE4NmQyMzA5ZGY0ODY1Y2VjNDRhYjE4NWFjYzA3Yzk0YmFjM2Y0ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmE4NmQyMzA5ZGY0ODY1Y2VjNDRhYjE4NWFjYzA3Yzk0YmFjM2Y0ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </div>
 
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Polina</a> 
