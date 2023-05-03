@@ -46,6 +46,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Posgres SQL" alt="Posgres SQL" width="40" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Scikit-Learn-blue?style=for-the-badge&logo=Scikit-Learn&logoColor=ЦВЕТ ЛОГОТИПА"/>&nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=ЦВЕТ ЛОГОТИПА"/>&nbsp;
+  <img src="https://img.shields.io/badge/Scikit-Learn-blue?style=for-the-badge&logo=Scikit-Learn&logoColor=ЦВЕТ ЛОГОТИПА"/>&nbsp;
 </div>
 
 
