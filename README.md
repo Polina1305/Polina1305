@@ -34,3 +34,10 @@
 - 📖: - In my free time I solve problems on Stepic, Kaggle, ODS and read technical articles Habr, Proglib, N+1, TProger Stack Overflow forums, Cyberforum, popular YouTube channels, Telegram channels by specialty.
 
 - 💻:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/smolchonok)
+
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+
