@@ -81,3 +81,6 @@
 |7.| [Python для тех, у кого лапки](https://stepik.org/course/85388/syllabus)                             |    14/02/2023   |[<img src="https://user-images.githubusercontent.com/106150320/235956708-8842092d-f4f3-4e99-8f2f-b9d353b1f259.png" width="100" height="30"/>](https://stepik.org/cert/1948420)|
 |8.| [«Специалист по Data Science»](https://practicum.yandex.ru/data-scientist/)                          |    01/09/2022 - 06/05/2023   |[<img src="https://user-images.githubusercontent.com/106150320/235955798-623921b1-3ab1-45f3-9f2d-611ade564a94.png" width="100" height="30"/>]( - ) |
 
+---
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Polina1305&there=github_dark)
