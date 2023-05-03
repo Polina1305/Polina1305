@@ -28,7 +28,7 @@
 ### :woman_technologist: About Me :
 
 
-- I am an aspiring data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia. 
+- I am an aspiring data scientist :RU: from Russia. 
 
 - ⚡: I am an accountant by basic education, and at the moment I have completed courses in data analytics and data science.
 
