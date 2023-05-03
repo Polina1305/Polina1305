@@ -4,7 +4,6 @@
 
 <h1 align="center">Привет, меня зовут <a href="https://github.com/Polina1305" target="_blank">Полина</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> 
-<h3 align="center">Я начинающий Data-Science</h3>
 <div id="header" align="center">
   
 
@@ -25,15 +24,14 @@
 ---
 
 
-### :woman_technologist: About Me :
+### :woman_technologist: Обо мне :
 
-- I am an aspiring data scientist from Russia  <img src="https://cdn.jsdelivr.net/npm/openmoji@12.4.0/color/svg/1F1F7-1F1FA.svg" width="20" height="20"/> 
+Я начинающий Data-Science. Мой путь в it начался в 2022 году с Национального Исследовательского ТГУ, где я окончила курсы по специальности Data-аналитик. После, мною было принято решение поступить на обучение в Яндекс Практикум, где я сделала множество проектов, использовала язык python, алгоритмы машинного обучения и выбирала подходящие метрики для оценки их качества. Овладела основами статистики, линейной алгебры и численных методов. Изучила популярные среди специалистов по DataScience инструменты и библиотеки — Jupyter Notebook, Scikit-Learn, CatBoost, Keras, PySpark... В настоящий момент мое обучение на курсе завершено и я нахожусь в поисках работы, параллельно с этим я прохожу дополнительные курсы и учавствую в соревнованиях на всем известных площадках  Kaggle, ODS, читаю технические статьи с Habr, Proglib, N+1, TProger Stack Overflow, форумы TProger StackOverflow, Cyberforum, популярные каналы YouTube, Telegram-каналы по специальности.
 
-- ⚡: I am an accountant by basic education, and at the moment I have completed courses in data analytics and data science.
+--- 
 
-- 📖: In my free time I solve problems on Stepik, Kaggle, ODS and read technical articles Habr, Proglib, N+1, TProger Stack Overflow forums, Cyberforum, popular YouTube channels, Telegram channels by specialty.
 
-- 💻:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/smolchonok)
+💻:Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/smolchonok) 
 
 
 ---
