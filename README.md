@@ -7,7 +7,6 @@
 <h3 align="center">I am a beginner computer scientist </h3>
 <div id="header" align="center">
   
- </div id="header"> 
 
   
 <div id="badges">
@@ -21,7 +20,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Polina1305&style=flat-square&color=blue" alt=""/>
   
-
+ </div id="header"> 
  
 ---
 
