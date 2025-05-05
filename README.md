@@ -1,11 +1,11 @@
 <div id="header" align="center">
   <img src="https://t3.ftcdn.net/jpg/03/04/68/52/360_F_304685223_ttVGVAkC5JlfgEOTO8KYbN4tjnRqM715.jpg" width="800"/>    
 </div>
-<h1 align="center">Привет, я <a href="https://github.com/Polina1305" target="_blank">Полина</a> 
+<!-- <h1 align="center">Привет, я <a href="https://github.com/Polina1305" target="_blank">Полина</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> 
 <div id="header" align="center">
   
-
+ -->
   
 <div id="badges">
   <a href="https://t.me/smolchonok">
