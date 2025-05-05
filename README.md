@@ -8,10 +8,10 @@
 
   
 <div id="badges">
-  <a href="https://t.me/smolchonok">
+  <a href="https://t.me/Smolyak_DS">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-    <a href="[https://t.me/smolchonok](https://mail.ru/?utm_source=portal&utm_medium=new_portal_navigation&utm_campaign=mail.ru&mt_click_id=mt-ds8xq6-1683129876-1575103423&mt_sub1=id.mail.ru)">
+    <a href="[https://t.me/Smolyak_DS](https://mail.ru/?utm_source=portal&utm_medium=new_portal_navigation&utm_campaign=mail.ru&mt_click_id=mt-ds8xq6-1683129876-1575103423&mt_sub1=id.mail.ru)">
     <img src="https://img.shields.io/badge/@Mail-blue?style=for-the-badge&logo=@mail&logoColor=white" alt="@Mail"/>
   </a> 
 </div>
