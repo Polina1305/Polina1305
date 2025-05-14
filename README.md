@@ -33,25 +33,6 @@
 
 ---
 
-### ⚒️:Инструменты и технологии:
-
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=F7931E"/>&nbsp;
-  <img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=Scikit-Learn&logoColor=ЦВЕТ ЛОГОТИПА"/>&nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=ЦВЕТ ЛОГОТИПА"/>&nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=ЦВЕТ ЛОГОТИПА"/>&nbsp;
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=ЦВЕТ ЛОГОТИПА"/>&nbsp;
-  <img src="https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=Jupyter&logoColor=F37626"/>&nbsp;
-  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=0d1833"/>&nbsp;
-  <img src="https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=200d33"/>&nbsp;
-  <img src="https://img.shields.io/badge/microsoft office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=ЦВЕТ ЛОГОТИПА"/>&nbsp;
-  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=4a0d1b"/>&nbsp;
-  
-</div>
-
-
----
-
 
 ### 🔥: My Stats :  
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Polina1305&theme=dark&background=000000)](https://git.io/streak-stats)
